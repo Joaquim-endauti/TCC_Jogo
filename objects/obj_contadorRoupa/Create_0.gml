@@ -1,0 +1,1 @@
+global.roupa = 0

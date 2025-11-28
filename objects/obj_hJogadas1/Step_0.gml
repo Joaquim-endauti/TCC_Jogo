@@ -1,0 +1,1 @@
+//hora_atual = date_minute_span(global.pHora,global.sHora)
