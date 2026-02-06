@@ -1,1 +1,0 @@
-global.cabelo = 0

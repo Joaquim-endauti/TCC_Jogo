@@ -1,1 +1,0 @@
-global.save = 0

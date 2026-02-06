@@ -1,1 +1,0 @@
-global.genero = 0
